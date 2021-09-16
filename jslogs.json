@@ -1,0 +1,76 @@
+{"asctime": "2021-09-15 21:37:10,546", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-15 21:37:10,640", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-15 21:37:11,047", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-15 21:37:11,104", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-15 21:37:11,151", "name": "newapp.forms", "levelname": "INFO", "message": "Calling a form ImageForm"}
+{"asctime": "2021-09-15 21:37:11,151", "name": "newapp.urls", "levelname": "INFO", "message": "Calling URL"}
+{"asctime": "2021-09-15 21:37:14,622", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request not POST"}
+{"asctime": "2021-09-15 21:37:14,622", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form"}
+{"asctime": "2021-09-15 21:37:22,465", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 21:37:22,478", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 21:37:22,488", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 21:37:22,493", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-15 21:37:33,986", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 21:37:33,988", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 21:37:33,999", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 21:37:33,999", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-15 21:40:53,428", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 21:40:53,428", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 21:40:53,438", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 21:40:53,438", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-15 21:41:28,011", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 21:41:28,012", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 21:41:28,021", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 21:41:28,022", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-15 21:41:32,056", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 21:41:32,057", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 21:41:32,066", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 21:41:32,066", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-15 21:41:39,658", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-15 21:41:39,748", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-15 21:41:40,186", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-15 21:41:40,249", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-15 21:41:40,296", "name": "newapp.forms", "levelname": "INFO", "message": "Calling a form ImageForm"}
+{"asctime": "2021-09-15 21:41:40,296", "name": "newapp.urls", "levelname": "INFO", "message": "Calling URL"}
+{"asctime": "2021-09-15 21:41:42,114", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request not POST"}
+{"asctime": "2021-09-15 21:41:42,115", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form"}
+{"asctime": "2021-09-15 21:41:58,334", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 21:41:58,348", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 21:41:58,357", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 21:41:58,362", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-15 21:42:56,989", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request not POST"}
+{"asctime": "2021-09-15 21:42:56,989", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form"}
+{"asctime": "2021-09-15 21:43:03,730", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 21:43:03,730", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 21:43:03,738", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 21:43:03,743", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-15 22:00:27,421", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-15 22:00:27,484", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-15 22:00:28,012", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-15 22:00:28,092", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-15 22:00:28,144", "name": "newapp.forms", "levelname": "INFO", "message": "Calling a form ImageForm"}
+{"asctime": "2021-09-15 22:00:28,144", "name": "newapp.urls", "levelname": "INFO", "message": "Calling URL"}
+{"asctime": "2021-09-15 22:00:29,451", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request not POST"}
+{"asctime": "2021-09-15 22:00:29,452", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form"}
+{"asctime": "2021-09-15 22:04:57,506", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request not POST"}
+{"asctime": "2021-09-15 22:04:57,507", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form"}
+{"asctime": "2021-09-15 22:05:06,686", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-15 22:05:06,702", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-15 22:05:06,711", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-15 22:05:06,717", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-16 23:24:45,622", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-16 23:24:45,738", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-16 23:24:46,209", "name": "newapp.apps", "levelname": "INFO", "message": "Calling a class NewappConfig"}
+{"asctime": "2021-09-16 23:24:46,293", "name": "newapp.models", "levelname": "INFO", "message": "Calling a model Image"}
+{"asctime": "2021-09-16 23:24:46,340", "name": "newapp.forms", "levelname": "INFO", "message": "Calling a form ImageForm"}
+{"asctime": "2021-09-16 23:24:46,340", "name": "newapp.urls", "levelname": "INFO", "message": "Calling URL"}
+{"asctime": "2021-09-16 23:24:48,302", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request not POST"}
+{"asctime": "2021-09-16 23:24:48,303", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form"}
+{"asctime": "2021-09-16 23:25:00,694", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-16 23:25:00,712", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-16 23:25:00,725", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-16 23:25:00,730", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
+{"asctime": "2021-09-16 23:25:12,773", "name": "newapp.views", "levelname": "INFO", "message": "Method of sending the request POST"}
+{"asctime": "2021-09-16 23:25:12,774", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting black and white pixels"}
+{"asctime": "2021-09-16 23:25:12,786", "name": "newapp.views", "levelname": "INFO", "message": "Start of the function for counting pixels by HEX code"}
+{"asctime": "2021-09-16 23:25:12,792", "name": "newapp.views", "levelname": "INFO", "message": "Returning a form with the received data"}
