@@ -9,3 +9,11 @@ _____________________________
 Зависимости определены в файле requirements.txt.
 
 Реализовано JSON-логирование в файл jslogs.json.
+_____________________________
+Для запуска:
+
+git clone https://github.com/aDavletkilldv/uploadproj.git &
+cd uploadproj &
+pip install -r requirements.txt &
+python manage.py migrate &
+python manage.py runserver
